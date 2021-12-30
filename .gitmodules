@@ -1,0 +1,3 @@
+[submodule "jwst"]
+	path = jwst
+	url = https://repos.cosmos.esa.int/socci/scm/spice_kernels/jwst.git
